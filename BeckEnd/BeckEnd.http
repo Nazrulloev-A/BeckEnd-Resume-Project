@@ -1,0 +1,6 @@
+@BeckEnd_HostAddress = http://localhost:5251
+
+GET {{BeckEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
