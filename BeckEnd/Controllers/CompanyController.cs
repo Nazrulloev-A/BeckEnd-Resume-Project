@@ -47,6 +47,8 @@ public class CompanyController : ControllerBase
 
         return Ok(companiesDto);
     }
+
+
     
 
 
